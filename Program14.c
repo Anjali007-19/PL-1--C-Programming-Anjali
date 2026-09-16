@@ -1,3 +1,4 @@
+Program 14 — Multiplication Table Using While Loop
 #include <stdio.h>
 
 int main()
